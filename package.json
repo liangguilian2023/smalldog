@@ -1,0 +1,33 @@
+{
+  "name": "smalldog",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "coin_scan_binance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liangguilian2023/smalldog"
+  },
+  "website": "https://github.com/liangguilian2023/smalldog.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "liangguilian2023",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangguilian2023/smalldog/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/liangguilian2023/smalldog#readme",
+  "dependencies": {
+    "babycare": "1.0.2"
+  }
+}
