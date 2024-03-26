@@ -1,8 +1,8 @@
 import axios from 'axios';
-import { axiosConfig } from '@smalldog/proxy';
-import { sleep } from '@smalldog/sleep';
-import { formatTimestamp } from '@smalldog/date-time-processor';
-import { log } from '@smalldog/log';
+import { axiosConfig } from '@smalldogur2/proxy';
+import { sleep } from '@smalldogur2/sleep';
+import { formatTimestamp } from '@smalldogur2/date-time-processor';
+import { log } from '@smalldogur2/log';
 
 const retryDuration = 1000;
 
