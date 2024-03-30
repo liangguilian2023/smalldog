@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "",
   "type": "module",
-  "main": "coin_scan_binance.js",
+  "main": "smalldog.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/liangguilian2023/smalldog#readme",
   "dependencies": {
-    "babycare": "1.0.2"
+    "babycarerere1": "1.0.3"
   }
 }
